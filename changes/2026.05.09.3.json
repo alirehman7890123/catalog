@@ -1,0 +1,36 @@
+{
+  "version": "2026.05.09.3",
+  "previous_version": "2026.05.09.2",
+  "added_ids": [
+    15001
+  ],
+  "added_rows": [
+    {
+      "csv_id": 15001,
+      "brand_name": "samsung",
+      "model": "v23",
+      "screen_size": 12.0,
+      "price": 12000.0,
+      "release_year": 2026,
+      "operating_system": "apple",
+      "battery_capacity": 0,
+      "ram": 0,
+      "storage": 0,
+      "camera_mp": 0.0,
+      "front_camera_mp": 0.0,
+      "refresh_rate": 0.0,
+      "weight": 0.0,
+      "thickness": 0.0,
+      "body_material": "",
+      "chipset": "",
+      "gpu": "",
+      "dual_sim": "",
+      "network_support": "",
+      "bluetooth_version": "",
+      "wifi_version": "",
+      "usb_type": "",
+      "fast_charging": 0.0,
+      "fingerprint_sensor": ""
+    }
+  ]
+}
