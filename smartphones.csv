@@ -15000,3 +15000,4 @@ id,brand_name,model,screen_size,price,release_year,operating_system,battery_capa
 14999,OnePlus,OnePlus 11,6.92,44093,2024,Android,4489,8,128,108,8,90,208,8.5,Metal,Dimensity 9000,Mali-G710,No,5G,5.1,WiFi 6E,Type-C,18,Yes
 15000,Realme,Narzo 50,6,6133,2025,Android,3366,4,64,12,8,144,218,7.5,Glass,Snapdragon 8 Gen 2,Mali-G710,No,5G,5.0,WiFi 6,Type-C,120,No
 15001,samsung,v23,12,12000,2026,apple,0,0,0,0,0,0,0,0,,,,,,,,,0,
+15002,apple,i23,23,12000,2026,,0,0,0,0,0,0,0,0,,,,,,,,,0,

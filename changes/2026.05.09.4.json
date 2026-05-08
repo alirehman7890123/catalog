@@ -1,0 +1,73 @@
+{
+  "version": "2026.05.09.4",
+  "previous_version": "2026.05.09.3",
+  "added_ids": [
+    15002
+  ],
+  "updated_ids": [],
+  "deleted_ids": [],
+  "added_rows": [
+    {
+      "csv_id": 15002,
+      "brand_name": "apple",
+      "model": "i23",
+      "screen_size": 23.0,
+      "price": 12000.0,
+      "release_year": 2026,
+      "operating_system": "",
+      "battery_capacity": 0,
+      "ram": 0,
+      "storage": 0,
+      "camera_mp": 0.0,
+      "front_camera_mp": 0.0,
+      "refresh_rate": 0.0,
+      "weight": 0.0,
+      "thickness": 0.0,
+      "body_material": "",
+      "chipset": "",
+      "gpu": "",
+      "dual_sim": "",
+      "network_support": "",
+      "bluetooth_version": "",
+      "wifi_version": "",
+      "usb_type": "",
+      "fast_charging": 0.0,
+      "fingerprint_sensor": ""
+    }
+  ],
+  "updated_rows": [],
+  "deleted_rows": [],
+  "operations": [
+    {
+      "op": "add",
+      "id": 15002,
+      "row": {
+        "csv_id": 15002,
+        "brand_name": "apple",
+        "model": "i23",
+        "screen_size": 23.0,
+        "price": 12000.0,
+        "release_year": 2026,
+        "operating_system": "",
+        "battery_capacity": 0,
+        "ram": 0,
+        "storage": 0,
+        "camera_mp": 0.0,
+        "front_camera_mp": 0.0,
+        "refresh_rate": 0.0,
+        "weight": 0.0,
+        "thickness": 0.0,
+        "body_material": "",
+        "chipset": "",
+        "gpu": "",
+        "dual_sim": "",
+        "network_support": "",
+        "bluetooth_version": "",
+        "wifi_version": "",
+        "usb_type": "",
+        "fast_charging": 0.0,
+        "fingerprint_sensor": ""
+      }
+    }
+  ]
+}
