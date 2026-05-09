@@ -1,13 +1,13 @@
 {
-  "version": "2026.05.09.4",
+  "version": "2026.05.09.5",
   "file": "smartphones.csv",
-  "updated_at": "2026-05-09T04:59:58+05:00",
-  "row_count": 15002,
-  "sha256": "f2c872de0e1e14a5a94c8bc17b77c273364bfca7c626ad8807491e37b0e0ce28",
+  "updated_at": "2026-05-09T05:42:16+05:00",
+  "row_count": 100,
+  "sha256": "5a508026227ee08d3f24869ef4b90cea447f4ae8cb3c2841ec7cce4d1d9b4247",
   "added_ids": [
-    15002
+    15003
   ],
   "updated_ids": [],
   "deleted_ids": [],
-  "changes_file": "changes/2026.05.09.4.json"
+  "changes_file": "changes/2026.05.09.5.json"
 }
