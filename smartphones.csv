@@ -1,4 +1,7 @@
 id,brand_name,model,screen_size,price,release_year,operating_system,battery_capacity,ram,storage,camera_mp,front_camera_mp,refresh_rate,weight,thickness,body_material,chipset,gpu,dual_sim,network_support,bluetooth_version,wifi_version,usb_type,fast_charging,fingerprint_sensor
+15006,Transcendent,Transcendent USB 3.0,0,0,0,,0,0,32,0,0,0,0,0,,,,,,,,,0,
+15005,Boya,Boya Mic 123,0,0,0,,0,0,0,0,0,0,0,0,,,,,,,,,0,
+15004,Ronin,Ronin v3,0,1200,2026,,0,0,0,0,0,0,0,0,,,,,,,,,0,
 15003,adsfa,dafsd,12,2121,1231,sdfasdfa,32,0,0,0,0,0,0,0,,,,,,,,,0,
 15002,apple,i23,23,12000,2026,,0,0,0,0,0,0,0,0,,,,,,,,,0,
 15001,samsung,v23,12,12000,2026,apple,0,0,0,0,0,0,0,0,,,,,,,,,0,
@@ -96,6 +99,3 @@ id,brand_name,model,screen_size,price,release_year,operating_system,battery_capa
 14909,Oppo,Oppo F21,6.04,40288,2015,Android,3864,6,64,108,8,60,225,8.1,Metal,Snapdragon 8 Gen 2,Adreno 740,Yes,4G,5.1,WiFi 5,Type-C,18,No
 14908,Motorola,Moto Edge 40,6.62,30168,2023,Android,4187,4,64,48,16,120,202,9.2,Metal,Dimensity 9000,Apple GPU,Yes,4G,5.2,WiFi 5,Type-C,67,Yes
 14907,OnePlus,OnePlus 10,6.74,59249,2016,Android,4944,4,64,108,32,120,173,6.7,Metal,Snapdragon 8 Gen 2,Apple GPU,No,4G,5.1,WiFi 6,Type-C,67,Yes
-14906,Motorola,Moto Edge 50,6.16,36985,2021,Android,5348,4,512,48,32,90,162,9,Metal,Snapdragon 8 Gen 2,Adreno 740,No,5G,5.2,WiFi 5,Type-C,67,No
-14905,Xiaomi,Redmi Note 11,5.86,34972,2023,Android,4468,8,512,12,32,60,193,8.4,Glass,Dimensity 9000,Apple GPU,No,5G,5.0,WiFi 5,Type-C,18,No
-14904,Google,Pixel 9,6.12,46149,2021,Android,3487,8,64,64,16,60,169,8.2,Glass,Apple A16,Mali-G710,No,5G,5.0,WiFi 5,Type-C,33,Yes
